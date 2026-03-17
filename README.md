@@ -58,11 +58,11 @@ run_server.bat
 
 ### Quiz Generation
 
-![Quiz Output](screenshots/quiz_output.jpeg)
+![Quiz Output](Screenshots/quiz_output.jpeg)
 
 ### AI Response
 
-![AI Response](screenshots/ai_response.jpeg)
+![AI Response](Screenshots/ai_response.jpeg)
 
 
 ## Technologies Used
