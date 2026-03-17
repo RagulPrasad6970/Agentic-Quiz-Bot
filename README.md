@@ -10,21 +10,6 @@ An AI-powered quiz generation system that automatically creates quiz questions, 
 * Environment-based configuration
 * Modular Python project structure
 
-## Project Structure
-
-AGENTIC-QUIZ-SYSTEM
-│
-├── app/                    # Core application logic
-├── screenshots/            # Output screenshots
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-├── .gitignore              # Ignored files for Git
-├── run_server.bat          # Script to run the server
-├── test_ai.py              # AI testing script
-├── test_form.py            # Form testing script
-├── test_sheet.py           # Google Sheet testing script
-├── .env.example            # Example environment variables
-
 ## Installation
 
 ### 1. Clone the repository
