@@ -58,15 +58,12 @@ run_server.bat
 
 ### Quiz Generation
 
-![Quiz Output](screenshots/quiz_output.png)
+![Quiz Output](screenshots/quiz_output.jpeg)
 
 ### AI Response
 
-![AI Response](screenshots/ai_response.png)
+![AI Response](screenshots/ai_response.jpeg)
 
-### Google Sheet Update
-
-![Sheet Output](screenshots/sheet_output.png)
 
 ## Technologies Used
 
