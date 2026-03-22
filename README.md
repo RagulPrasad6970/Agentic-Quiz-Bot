@@ -1,14 +1,23 @@
-# Agentic Quiz System
+🧠 Agentic Quiz System
 
-An AI-powered quiz generation system that automatically creates quiz questions, evaluates responses, and stores results in Google Sheets.
+An intelligent quiz generation platform that leverages AI to automatically create questions, evaluate user responses, and store results in a structured and scalable manner using Google Sheets.
 
-## Features
+📌 Overview
 
-* AI-generated quiz questions
-* Automated answer evaluation
-* Google Sheets integration for storing results
-* Environment-based configuration
-* Modular Python project structure
+The Agentic Quiz System is designed to streamline quiz creation and evaluation by integrating AI capabilities with persistent storage. It eliminates manual effort in generating assessments while ensuring efficient tracking of user performance.
+
+✨ Key Features
+
+AI-Powered Question Generation
+Automatically generates context-aware quiz questions using the OpenAI API
+Automated Evaluation System
+Evaluates user responses with intelligent scoring mechanisms
+Cloud-Based Result Storage
+Stores quiz data and results using the Google Sheets API
+Secure Configuration Management
+Uses environment variables for handling sensitive credentials
+Modular & Scalable Design
+Structured Python codebase for maintainability and future enhancements
 
 ## Installation
 
