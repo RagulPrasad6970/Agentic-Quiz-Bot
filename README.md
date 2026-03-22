@@ -76,20 +76,21 @@ run_server.bat
 
 
 
-## Technologies Used
+## 🧰 Technology Stack
 
 * Python
-* OpenAI API
+* Groq API
 * Google Sheets API
 * Environment Variables
 * Virtual Environments
 
-## Future Improvements
+## 🔮 Future Improvements
 
-* Web interface for quizzes
-* User authentication
-* Dashboard for quiz analytics
-* Better answer evaluation
+* Web-based interactive quiz interface
+* User authentication and role management
+* Real-time analytics dashboard
+* Database integration (e.g., PostgreSQL, MongoDB)
+* Improved evaluation using advanced NLP techniques
 
 ## License
 
