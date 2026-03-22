@@ -23,7 +23,7 @@ Structured Python codebase for maintainability and future enhancements
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/agentic-quiz-system.git
+git clone https://github.com/RagulPrasad6970/Agentic-Quiz-Bot.git
 
 cd agentic-quiz-system
 
