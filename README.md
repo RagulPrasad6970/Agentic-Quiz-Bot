@@ -6,7 +6,7 @@ An intelligent quiz generation platform that leverages AI to automatically creat
 
 The Agentic Quiz System is designed to streamline quiz creation and evaluation by integrating AI capabilities with persistent storage. It eliminates manual effort in generating assessments while ensuring efficient tracking of user performance.
 
-##✨ Key Features
+###✨ Key Features
 
 AI-Powered Question Generation
 Automatically generates context-aware quiz questions using the OpenAI API
